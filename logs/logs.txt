@@ -1,0 +1,23 @@
+2025-11-23 00:28:53.704815: DATA EXTRACTION STARTED
+2025-11-23 00:38:20.870426: DATA EXTRACTION ENDED
+2025-11-23 00:38:20.922428: Loading: Loading data into data/banggood_listings_raw.csv
+2025-11-23 03:31:17.335055: DATA EXTRACTION STARTED
+2025-11-23 03:33:18.418126: DATA EXTRACTION ENDED
+2025-11-23 03:33:18.449376: Loading: Loading data into data/banggood_listings_raw.csv
+2025-11-23 04:42:56.500842: DATA EXTRACTION STARTED
+2025-11-23 04:46:39.432684: DATA EXTRACTION ENDED
+2025-11-23 04:46:39.448325: Loading: Loading data into data/banggood_listings_raw.csv
+2025-11-23 04:46:48.327410: Connecting: Connecting to database
+2025-11-23 04:46:49.453491: Dumping: Dumping data into database
+2025-11-23 04:50:58.555112: Connecting: Connecting to database
+2025-11-23 04:51:00.827574: Dumping: Dumping data into database
+2025-11-23 04:57:59.800712: Connecting: Connecting to database
+2025-11-23 04:58:01.046892: Dumping: Dumping data into database
+2025-11-23 04:59:17.378688: Connecting: Connecting to database
+2025-11-23 04:59:18.381096: Dumping: Dumping data into database
+2025-11-23 04:59:55.458344: Connecting: Connecting to database
+2025-11-23 04:59:56.357614: Dumping: Dumping data into database
+2025-11-23 05:16:23.881268: Connecting: Connecting to database
+2025-11-23 05:16:25.051128: Dumping: Dumping data into database
+2025-11-23 05:32:39.707024: Connecting: Connecting to database
+2025-11-23 05:32:40.843452: Dumping: Dumping data into database
